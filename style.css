@@ -1,0 +1,17 @@
+ p {
+    font-size: 20px;
+    color: darkblue;
+    font-weight: normal;
+    padding-bottom: 2px;
+    text-align: center;
+ }
+body {
+    font-family: sans-serif;
+    background: lightblue;
+    font-size: 16px;
+    text-align: center;
+}
+header, footer{
+    background-color: white;
+    color:darkblue;
+}
